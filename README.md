@@ -180,4 +180,4 @@ Stop either program anytime with `Ctrl+C`.
 
 ## Author
 
-Built by Ram, Class 9, as part of an AI/CS practical project — including both hardware assembly, wiring debugging, and software development (IR sensor logic and OpenCV-based computer vision).
+Built by Ram, Class 9, (with some help by @Claude, of course) as part of a practical project for The INNOVATION CLUB, JMPS, JAMMU & KASHMIR — including both hardware assembly, wiring debugging, and software development (IR sensor logic and OpenCV-based computer vision).
